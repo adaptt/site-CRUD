@@ -1,2 +1,2 @@
 # site-CRUD
-Simple site about cadastrating students
+Site simples sobre cadastrar alunos
